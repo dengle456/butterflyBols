@@ -1,0 +1,15 @@
+.DS_Store
+Thumbs.db
+db.json
+package-lock.json
+*.log
+node_modules/
+public/
+public-en/
+.deploy*/
+.history/
+source/_backup/
+.vscode/
+.deploy_git/
+scripts/
+pnpm-lock.yaml
